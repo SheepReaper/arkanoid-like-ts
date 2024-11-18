@@ -506,7 +506,7 @@ const RAW_RUNTIME_STATE =
           ["browserslist", "npm:4.24.2"],\
           ["clone", "npm:2.1.2"],\
           ["dotenv", "npm:16.4.5"],\
-          ["dotenv-expand", "npm:11.0.6"],\
+          ["dotenv-expand", "npm:11.0.7"],\
           ["json5", "npm:2.2.3"],\
           ["msgpackr", "npm:1.11.2"],\
           ["nullthrows", "npm:1.1.1"],\
@@ -1995,7 +1995,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["browserslist", "npm:4.24.2"],\
           ["caniuse-lite", "npm:1.0.30001680"],\
-          ["electron-to-chromium", "npm:1.5.55"],\
+          ["electron-to-chromium", "npm:1.5.62"],\
           ["node-releases", "npm:2.0.18"],\
           ["update-browserslist-db", "virtual:0bc5f13e3b070c660ccf3396ff30b6fc44ede2343c6543d593ce4624807ab1bafdbcd764ac20b4d55e6854e63e2568f1c6d09371eb639766b95e2d401b5b05cb#npm:1.1.1"]\
         ],\
@@ -2312,10 +2312,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["dotenv-expand", [\
-      ["npm:11.0.6", {\
-        "packageLocation": "../../../../cache/others/berry/cache/dotenv-expand-npm-11.0.6-bb141097d1-10c0.zip/node_modules/dotenv-expand/",\
+      ["npm:11.0.7", {\
+        "packageLocation": "../../../../cache/others/berry/cache/dotenv-expand-npm-11.0.7-3d83888ae0-10c0.zip/node_modules/dotenv-expand/",\
         "packageDependencies": [\
-          ["dotenv-expand", "npm:11.0.6"],\
+          ["dotenv-expand", "npm:11.0.7"],\
           ["dotenv", "npm:16.4.5"]\
         ],\
         "linkType": "HARD"\
@@ -2331,10 +2331,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["electron-to-chromium", [\
-      ["npm:1.5.55", {\
-        "packageLocation": "../../../../cache/others/berry/cache/electron-to-chromium-npm-1.5.55-42f2de4e9f-10c0.zip/node_modules/electron-to-chromium/",\
+      ["npm:1.5.62", {\
+        "packageLocation": "../../../../cache/others/berry/cache/electron-to-chromium-npm-1.5.62-f1f12e4838-10c0.zip/node_modules/electron-to-chromium/",\
         "packageDependencies": [\
-          ["electron-to-chromium", "npm:1.5.55"]\
+          ["electron-to-chromium", "npm:1.5.62"]\
         ],\
         "linkType": "HARD"\
       }]\
