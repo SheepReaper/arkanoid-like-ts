@@ -31,7 +31,7 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/parser", "virtual:ee2b7e7268f36ee4a51f329697ccade7e17a6fcc7ee1322226fcdf5efc51ce3fc6616794004200464eca6b3b8bf40d76632b4ced8472d8c36b2965321080b0f6#npm:7.18.0"],\
           ["eslint", "npm:8.57.1"],\
           ["eslint-config-prettier", "virtual:ee2b7e7268f36ee4a51f329697ccade7e17a6fcc7ee1322226fcdf5efc51ce3fc6616794004200464eca6b3b8bf40d76632b4ced8472d8c36b2965321080b0f6#npm:9.1.0"],\
-          ["eslint-plugin-prettier", "virtual:ee2b7e7268f36ee4a51f329697ccade7e17a6fcc7ee1322226fcdf5efc51ce3fc6616794004200464eca6b3b8bf40d76632b4ced8472d8c36b2965321080b0f6#npm:5.2.3"],\
+          ["eslint-plugin-prettier", "virtual:ee2b7e7268f36ee4a51f329697ccade7e17a6fcc7ee1322226fcdf5efc51ce3fc6616794004200464eca6b3b8bf40d76632b4ced8472d8c36b2965321080b0f6#npm:5.2.4"],\
           ["parcel", "virtual:ee2b7e7268f36ee4a51f329697ccade7e17a6fcc7ee1322226fcdf5efc51ce3fc6616794004200464eca6b3b8bf40d76632b4ced8472d8c36b2965321080b0f6#npm:2.14.1"],\
           ["prettier", "npm:3.5.3"],\
           ["typescript", "patch:typescript@npm%3A5.8.2#optional!builtin<compat/typescript>::version=5.8.2&hash=5786d5"]\
@@ -1467,10 +1467,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@pkgr/core", [\
-      ["npm:0.1.1", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@pkgr-core-npm-0.1.1-844d1f59d1-10c0.zip/node_modules/@pkgr/core/",\
+      ["npm:0.2.0", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@pkgr-core-npm-0.2.0-c1161f0259-10c0.zip/node_modules/@pkgr/core/",\
         "packageDependencies": [\
-          ["@pkgr/core", "npm:0.1.1"]\
+          ["@pkgr/core", "npm:0.2.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -1958,7 +1958,7 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/parser", "virtual:ee2b7e7268f36ee4a51f329697ccade7e17a6fcc7ee1322226fcdf5efc51ce3fc6616794004200464eca6b3b8bf40d76632b4ced8472d8c36b2965321080b0f6#npm:7.18.0"],\
           ["eslint", "npm:8.57.1"],\
           ["eslint-config-prettier", "virtual:ee2b7e7268f36ee4a51f329697ccade7e17a6fcc7ee1322226fcdf5efc51ce3fc6616794004200464eca6b3b8bf40d76632b4ced8472d8c36b2965321080b0f6#npm:9.1.0"],\
-          ["eslint-plugin-prettier", "virtual:ee2b7e7268f36ee4a51f329697ccade7e17a6fcc7ee1322226fcdf5efc51ce3fc6616794004200464eca6b3b8bf40d76632b4ced8472d8c36b2965321080b0f6#npm:5.2.3"],\
+          ["eslint-plugin-prettier", "virtual:ee2b7e7268f36ee4a51f329697ccade7e17a6fcc7ee1322226fcdf5efc51ce3fc6616794004200464eca6b3b8bf40d76632b4ced8472d8c36b2965321080b0f6#npm:5.2.4"],\
           ["parcel", "virtual:ee2b7e7268f36ee4a51f329697ccade7e17a6fcc7ee1322226fcdf5efc51ce3fc6616794004200464eca6b3b8bf40d76632b4ced8472d8c36b2965321080b0f6#npm:2.14.1"],\
           ["prettier", "npm:3.5.3"],\
           ["typescript", "patch:typescript@npm%3A5.8.2#optional!builtin<compat/typescript>::version=5.8.2&hash=5786d5"]\
@@ -2529,17 +2529,17 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["eslint-plugin-prettier", [\
-      ["npm:5.2.3", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/eslint-plugin-prettier-npm-5.2.3-b375609ede-10c0.zip/node_modules/eslint-plugin-prettier/",\
+      ["npm:5.2.4", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/eslint-plugin-prettier-npm-5.2.4-e17f6606f7-10c0.zip/node_modules/eslint-plugin-prettier/",\
         "packageDependencies": [\
-          ["eslint-plugin-prettier", "npm:5.2.3"]\
+          ["eslint-plugin-prettier", "npm:5.2.4"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:ee2b7e7268f36ee4a51f329697ccade7e17a6fcc7ee1322226fcdf5efc51ce3fc6616794004200464eca6b3b8bf40d76632b4ced8472d8c36b2965321080b0f6#npm:5.2.3", {\
-        "packageLocation": "./.yarn/__virtual__/eslint-plugin-prettier-virtual-608e86b465/7/runner/cache/others/berry/cache/eslint-plugin-prettier-npm-5.2.3-b375609ede-10c0.zip/node_modules/eslint-plugin-prettier/",\
+      ["virtual:ee2b7e7268f36ee4a51f329697ccade7e17a6fcc7ee1322226fcdf5efc51ce3fc6616794004200464eca6b3b8bf40d76632b4ced8472d8c36b2965321080b0f6#npm:5.2.4", {\
+        "packageLocation": "./.yarn/__virtual__/eslint-plugin-prettier-virtual-fd51ab7c4a/7/runner/cache/others/berry/cache/eslint-plugin-prettier-npm-5.2.4-e17f6606f7-10c0.zip/node_modules/eslint-plugin-prettier/",\
         "packageDependencies": [\
-          ["eslint-plugin-prettier", "virtual:ee2b7e7268f36ee4a51f329697ccade7e17a6fcc7ee1322226fcdf5efc51ce3fc6616794004200464eca6b3b8bf40d76632b4ced8472d8c36b2965321080b0f6#npm:5.2.3"],\
+          ["eslint-plugin-prettier", "virtual:ee2b7e7268f36ee4a51f329697ccade7e17a6fcc7ee1322226fcdf5efc51ce3fc6616794004200464eca6b3b8bf40d76632b4ced8472d8c36b2965321080b0f6#npm:5.2.4"],\
           ["@types/eslint", null],\
           ["@types/eslint-config-prettier", null],\
           ["@types/prettier", null],\
@@ -2547,7 +2547,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-config-prettier", "virtual:ee2b7e7268f36ee4a51f329697ccade7e17a6fcc7ee1322226fcdf5efc51ce3fc6616794004200464eca6b3b8bf40d76632b4ced8472d8c36b2965321080b0f6#npm:9.1.0"],\
           ["prettier", "npm:3.5.3"],\
           ["prettier-linter-helpers", "npm:1.0.0"],\
-          ["synckit", "npm:0.9.2"]\
+          ["synckit", "npm:0.10.2"]\
         ],\
         "packagePeers": [\
           "@types/eslint-config-prettier",\
@@ -4270,11 +4270,11 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["synckit", [\
-      ["npm:0.9.2", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/synckit-npm-0.9.2-515a819361-10c0.zip/node_modules/synckit/",\
+      ["npm:0.10.2", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/synckit-npm-0.10.2-70fd433517-10c0.zip/node_modules/synckit/",\
         "packageDependencies": [\
-          ["synckit", "npm:0.9.2"],\
-          ["@pkgr/core", "npm:0.1.1"],\
+          ["synckit", "npm:0.10.2"],\
+          ["@pkgr/core", "npm:0.2.0"],\
           ["tslib", "npm:2.8.1"]\
         ],\
         "linkType": "HARD"\
