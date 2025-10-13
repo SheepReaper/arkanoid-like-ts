@@ -353,7 +353,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/@npmcli-fs-npm-4.0.0-1d9cc8a27b-10c0.zip/node_modules/@npmcli/fs/",\
         "packageDependencies": [\
           ["@npmcli/fs", "npm:4.0.0"],\
-          ["semver", "npm:7.7.2"]\
+          ["semver", "npm:7.7.3"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -502,7 +502,7 @@ const RAW_RUNTIME_STATE =
           ["json5", "npm:2.2.3"],\
           ["msgpackr", "npm:1.11.5"],\
           ["nullthrows", "npm:1.1.1"],\
-          ["semver", "npm:7.7.2"]\
+          ["semver", "npm:7.7.3"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -647,7 +647,7 @@ const RAW_RUNTIME_STATE =
           ["@parcel/rust", "virtual:e2bb402e06b3f88bc36c7c4f8271a54f45b33fb1ef490d8f873dcf6ef5cf78b7527db6b51e2cfa326253f5790ffdf86f2130ffde25cb387062559a33c9c9d333#npm:2.16.0"],\
           ["@parcel/utils", "npm:2.16.0"],\
           ["nullthrows", "npm:1.1.1"],\
-          ["semver", "npm:7.7.2"]\
+          ["semver", "npm:7.7.3"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -756,7 +756,7 @@ const RAW_RUNTIME_STATE =
           ["@parcel/workers", "virtual:c9fbbdd3efc5862cbbe63b55b334264bc1485dce2d04a0195aacb024b18344d32812660908d861813fc91fdd95dab3eec6ea5b90a2025f0aa68f3e60e032a319#npm:2.16.0"],\
           ["@swc/core", "virtual:d7620fb4a59eb69fc9f53e0845ad4a668bc3c84045c9b7a5b5d3b49d384a0f7d1c462f83d30a58166408b42f18b2ae1faaf691d726c154c26f2bc6e152bb5f43#npm:1.13.20"],\
           ["@types/parcel__core", null],\
-          ["semver", "npm:7.7.2"]\
+          ["semver", "npm:7.7.3"]\
         ],\
         "packagePeers": [\
           "@parcel/core",\
@@ -1090,7 +1090,7 @@ const RAW_RUNTIME_STATE =
           ["browserslist", "npm:4.26.3"],\
           ["json5", "npm:2.2.3"],\
           ["nullthrows", "npm:1.1.1"],\
-          ["semver", "npm:7.7.2"]\
+          ["semver", "npm:7.7.3"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -1173,7 +1173,7 @@ const RAW_RUNTIME_STATE =
           ["browserslist", "npm:4.26.3"],\
           ["nullthrows", "npm:1.1.1"],\
           ["regenerator-runtime", "npm:0.14.1"],\
-          ["semver", "npm:7.7.2"]\
+          ["semver", "npm:7.7.3"]\
         ],\
         "packagePeers": [\
           "@parcel/core",\
@@ -1215,7 +1215,7 @@ const RAW_RUNTIME_STATE =
           ["clone", "npm:2.1.2"],\
           ["nullthrows", "npm:1.1.1"],\
           ["postcss-value-parser", "npm:4.2.0"],\
-          ["semver", "npm:7.7.2"]\
+          ["semver", "npm:7.7.3"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -1808,7 +1808,7 @@ const RAW_RUNTIME_STATE =
           ["globby", "npm:11.1.0"],\
           ["is-glob", "npm:4.0.3"],\
           ["minimatch", "npm:9.0.5"],\
-          ["semver", "npm:7.7.2"],\
+          ["semver", "npm:7.7.3"],\
           ["ts-api-utils", "virtual:c519d6a54b96fdf8eb15a348687f295bf40ea752e7f81349437c75df2eaa3b353f04213131ea8136b76bbacab0404bd2f5c19b646b95b2433855fc3760384593#npm:1.4.3"],\
           ["typescript", null]\
         ],\
@@ -1829,7 +1829,7 @@ const RAW_RUNTIME_STATE =
           ["globby", "npm:11.1.0"],\
           ["is-glob", "npm:4.0.3"],\
           ["minimatch", "npm:9.0.5"],\
-          ["semver", "npm:7.7.2"],\
+          ["semver", "npm:7.7.3"],\
           ["ts-api-utils", "virtual:b7ffa72df5ef1432a8abd1cc9b66a74cd75221e045d976182a91c44d26450707fa9115f4fe352b09bc9e9b59926bf29b93248b18ae5a35e267aa405dd3dbec32#npm:1.4.3"],\
           ["typescript", "patch:typescript@npm%3A5.9.3#optional!builtin<compat/typescript>::version=5.9.3&hash=5786d5"]\
         ],\
@@ -2036,10 +2036,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["baseline-browser-mapping", [\
-      ["npm:2.8.12", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/baseline-browser-mapping-npm-2.8.12-e5bfbe3cd5-10c0.zip/node_modules/baseline-browser-mapping/",\
+      ["npm:2.8.16", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/baseline-browser-mapping-npm-2.8.16-ad69292963-10c0.zip/node_modules/baseline-browser-mapping/",\
         "packageDependencies": [\
-          ["baseline-browser-mapping", "npm:2.8.12"]\
+          ["baseline-browser-mapping", "npm:2.8.16"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2077,10 +2077,10 @@ const RAW_RUNTIME_STATE =
       ["npm:4.26.3", {\
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/browserslist-npm-4.26.3-a3d5d315b1-10c0.zip/node_modules/browserslist/",\
         "packageDependencies": [\
-          ["baseline-browser-mapping", "npm:2.8.12"],\
+          ["baseline-browser-mapping", "npm:2.8.16"],\
           ["browserslist", "npm:4.26.3"],\
-          ["caniuse-lite", "npm:1.0.30001748"],\
-          ["electron-to-chromium", "npm:1.5.230"],\
+          ["caniuse-lite", "npm:1.0.30001750"],\
+          ["electron-to-chromium", "npm:1.5.234"],\
           ["node-releases", "npm:2.0.23"],\
           ["update-browserslist-db", "virtual:a3d5d315b18a8efd5c6c6fa0a7cb47735114bfe945a51fdf8abace3d923b097861a54a987821a6a208a9c0ea0a7af561be5ae7a37c61244aa72655bb6c469aa8#npm:1.1.3"]\
         ],\
@@ -2118,10 +2118,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["caniuse-lite", [\
-      ["npm:1.0.30001748", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/caniuse-lite-npm-1.0.30001748-6258c96ac0-10c0.zip/node_modules/caniuse-lite/",\
+      ["npm:1.0.30001750", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/caniuse-lite-npm-1.0.30001750-46377a8526-10c0.zip/node_modules/caniuse-lite/",\
         "packageDependencies": [\
-          ["caniuse-lite", "npm:1.0.30001748"]\
+          ["caniuse-lite", "npm:1.0.30001750"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2310,10 +2310,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["electron-to-chromium", [\
-      ["npm:1.5.230", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/electron-to-chromium-npm-1.5.230-2836cdf03c-10c0.zip/node_modules/electron-to-chromium/",\
+      ["npm:1.5.234", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/electron-to-chromium-npm-1.5.234-872a6fe2d7-10c0.zip/node_modules/electron-to-chromium/",\
         "packageDependencies": [\
-          ["electron-to-chromium", "npm:1.5.230"]\
+          ["electron-to-chromium", "npm:1.5.234"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2552,10 +2552,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["exponential-backoff", [\
-      ["npm:3.1.2", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/exponential-backoff-npm-3.1.2-e030c582de-10c0.zip/node_modules/exponential-backoff/",\
+      ["npm:3.1.3", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/exponential-backoff-npm-3.1.3-28be78d98e-10c0.zip/node_modules/exponential-backoff/",\
         "packageDependencies": [\
-          ["exponential-backoff", "npm:3.1.2"]\
+          ["exponential-backoff", "npm:3.1.3"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3454,13 +3454,13 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/unplugged/node-gyp-npm-11.4.2-75a7da9a3c/node_modules/node-gyp/",\
         "packageDependencies": [\
           ["env-paths", "npm:2.2.1"],\
-          ["exponential-backoff", "npm:3.1.2"],\
+          ["exponential-backoff", "npm:3.1.3"],\
           ["graceful-fs", "npm:4.2.11"],\
           ["make-fetch-happen", "npm:14.0.3"],\
           ["node-gyp", "npm:11.4.2"],\
           ["nopt", "npm:8.1.0"],\
           ["proc-log", "npm:5.0.0"],\
-          ["semver", "npm:7.7.2"],\
+          ["semver", "npm:7.7.3"],\
           ["tar", "npm:7.5.1"],\
           ["tinyglobby", "npm:0.2.15"],\
           ["which", "npm:5.0.0"]\
@@ -3862,10 +3862,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["semver", [\
-      ["npm:7.7.2", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/semver-npm-7.7.2-dfc3bc5ec9-10c0.zip/node_modules/semver/",\
+      ["npm:7.7.3", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/semver-npm-7.7.3-9cf7b3b46c-10c0.zip/node_modules/semver/",\
         "packageDependencies": [\
-          ["semver", "npm:7.7.2"]\
+          ["semver", "npm:7.7.3"]\
         ],\
         "linkType": "HARD"\
       }]\
