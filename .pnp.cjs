@@ -160,10 +160,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@lezer/common", [\
-      ["npm:1.4.0", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@lezer-common-npm-1.4.0-5cbc7d5add-10c0.zip/node_modules/@lezer/common/",\
+      ["npm:1.5.0", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@lezer-common-npm-1.5.0-321d54f8ca-10c0.zip/node_modules/@lezer/common/",\
         "packageDependencies": [\
-          ["@lezer/common", "npm:1.4.0"]\
+          ["@lezer/common", "npm:1.5.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -172,7 +172,7 @@ const RAW_RUNTIME_STATE =
       ["npm:1.4.5", {\
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/@lezer-lr-npm-1.4.5-57a31ad8e7-10c0.zip/node_modules/@lezer/lr/",\
         "packageDependencies": [\
-          ["@lezer/common", "npm:1.4.0"],\
+          ["@lezer/common", "npm:1.5.0"],\
           ["@lezer/lr", "npm:1.4.5"]\
         ],\
         "linkType": "HARD"\
@@ -236,7 +236,7 @@ const RAW_RUNTIME_STATE =
       ["npm:0.1.1", {\
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/@mischnic-json-sourcemap-npm-0.1.1-eed67dd6e4-10c0.zip/node_modules/@mischnic/json-sourcemap/",\
         "packageDependencies": [\
-          ["@lezer/common", "npm:1.4.0"],\
+          ["@lezer/common", "npm:1.5.0"],\
           ["@lezer/lr", "npm:1.4.5"],\
           ["@mischnic/json-sourcemap", "npm:0.1.1"],\
           ["json5", "npm:2.2.3"]\
@@ -324,7 +324,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@nodelib/fs.scandir", "npm:2.1.5"],\
           ["@nodelib/fs.walk", "npm:1.2.8"],\
-          ["fastq", "npm:1.19.1"]\
+          ["fastq", "npm:1.20.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -1163,7 +1163,7 @@ const RAW_RUNTIME_STATE =
           ["@parcel/transformer-js", "virtual:2a0ba0aa190dc3edddc16ac3d6e524d3defb0e641a59cf3a7126579348123acfa5f365074dd20a611d481b169bd00f54255431ad9a1a2fb63b4e946812c089a3#npm:2.16.3"],\
           ["@parcel/utils", "npm:2.16.3"],\
           ["@parcel/workers", "virtual:904a532427cf12d5366845a4d2a54922657a19e631693de9d6f4a5cb51a2fd0bb8e0235eb15f9931c742fbd0778b4a7d7824b42be5ae543e52f521a07012b4c1#npm:2.16.3"],\
-          ["@swc/helpers", "npm:0.5.17"],\
+          ["@swc/helpers", "npm:0.5.18"],\
           ["@types/parcel__core", null],\
           ["browserslist", "npm:4.28.1"],\
           ["nullthrows", "npm:1.1.1"],\
@@ -1636,10 +1636,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@swc/helpers", [\
-      ["npm:0.5.17", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@swc-helpers-npm-0.5.17-53974f71e8-10c0.zip/node_modules/@swc/helpers/",\
+      ["npm:0.5.18", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@swc-helpers-npm-0.5.18-8b3d208ddb-10c0.zip/node_modules/@swc/helpers/",\
         "packageDependencies": [\
-          ["@swc/helpers", "npm:0.5.17"],\
+          ["@swc/helpers", "npm:0.5.18"],\
           ["tslib", "npm:2.8.1"]\
         ],\
         "linkType": "HARD"\
@@ -2413,7 +2413,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-config-prettier", "virtual:ee2b7e7268f36ee4a51f329697ccade7e17a6fcc7ee1322226fcdf5efc51ce3fc6616794004200464eca6b3b8bf40d76632b4ced8472d8c36b2965321080b0f6#npm:9.1.2"],\
           ["eslint-plugin-prettier", "virtual:ee2b7e7268f36ee4a51f329697ccade7e17a6fcc7ee1322226fcdf5efc51ce3fc6616794004200464eca6b3b8bf40d76632b4ced8472d8c36b2965321080b0f6#npm:5.5.4"],\
           ["prettier", "npm:3.7.4"],\
-          ["prettier-linter-helpers", "npm:1.0.0"],\
+          ["prettier-linter-helpers", "npm:1.0.1"],\
           ["synckit", "npm:0.11.11"]\
         ],\
         "packagePeers": [\
@@ -2557,10 +2557,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["fastq", [\
-      ["npm:1.19.1", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/fastq-npm-1.19.1-ca0a13ec3f-10c0.zip/node_modules/fastq/",\
+      ["npm:1.20.1", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/fastq-npm-1.20.1-61577b2c25-10c0.zip/node_modules/fastq/",\
         "packageDependencies": [\
-          ["fastq", "npm:1.19.1"],\
+          ["fastq", "npm:1.20.1"],\
           ["reusify", "npm:1.1.0"]\
         ],\
         "linkType": "HARD"\
@@ -3642,11 +3642,11 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["prettier-linter-helpers", [\
-      ["npm:1.0.0", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/prettier-linter-helpers-npm-1.0.0-6925131a7e-10c0.zip/node_modules/prettier-linter-helpers/",\
+      ["npm:1.0.1", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/prettier-linter-helpers-npm-1.0.1-269f5b4fc0-10c0.zip/node_modules/prettier-linter-helpers/",\
         "packageDependencies": [\
           ["fast-diff", "npm:1.3.0"],\
-          ["prettier-linter-helpers", "npm:1.0.0"]\
+          ["prettier-linter-helpers", "npm:1.0.1"]\
         ],\
         "linkType": "HARD"\
       }]\
