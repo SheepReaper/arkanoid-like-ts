@@ -1162,7 +1162,7 @@ const RAW_RUNTIME_STATE =
           ["@parcel/transformer-js", "virtual:f235750b9d72a54ead5f293b3a3815cc2d813690c7f0e8e49d95ba2932a1c7fc912e99afc0ae90876a5e9f6a939e00ab44c3ca76c60ed49ac830d89f17d21b3b#npm:2.16.4"],\
           ["@parcel/utils", "npm:2.16.4"],\
           ["@parcel/workers", "virtual:5f203ef5068360cb92b05e3963efd7fb66264a30bba9f82dbec6eb830f80259be87d04e02ac642b8b6fbbb7d41eed3a72d11b6ea5c4839c8532a381a4aed767e#npm:2.16.4"],\
-          ["@swc/helpers", "npm:0.5.19"],\
+          ["@swc/helpers", "npm:0.5.20"],\
           ["@types/parcel__core", null],\
           ["browserslist", "npm:4.28.1"],\
           ["nullthrows", "npm:1.1.1"],\
@@ -1527,7 +1527,7 @@ const RAW_RUNTIME_STATE =
           ["@swc/core-win32-x64-msvc", "npm:1.15.21"],\
           ["@swc/counter", "npm:0.1.3"],\
           ["@swc/helpers", null],\
-          ["@swc/types", "npm:0.1.25"],\
+          ["@swc/types", "npm:0.1.26"],\
           ["@types/swc__helpers", null]\
         ],\
         "packagePeers": [\
@@ -1655,21 +1655,21 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@swc/helpers", [\
-      ["npm:0.5.19", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@swc-helpers-npm-0.5.19-8b3f562b85-10c0.zip/node_modules/@swc/helpers/",\
+      ["npm:0.5.20", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@swc-helpers-npm-0.5.20-f72c41c87d-10c0.zip/node_modules/@swc/helpers/",\
         "packageDependencies": [\
-          ["@swc/helpers", "npm:0.5.19"],\
+          ["@swc/helpers", "npm:0.5.20"],\
           ["tslib", "npm:2.8.1"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@swc/types", [\
-      ["npm:0.1.25", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@swc-types-npm-0.1.25-8a74ae00bc-10c0.zip/node_modules/@swc/types/",\
+      ["npm:0.1.26", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/@swc-types-npm-0.1.26-d8a687c944-10c0.zip/node_modules/@swc/types/",\
         "packageDependencies": [\
           ["@swc/counter", "npm:0.1.3"],\
-          ["@swc/types", "npm:0.1.25"]\
+          ["@swc/types", "npm:0.1.26"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2034,37 +2034,37 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["baseline-browser-mapping", [\
-      ["npm:2.10.10", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/baseline-browser-mapping-npm-2.10.10-efc60b9eb0-10c0.zip/node_modules/baseline-browser-mapping/",\
+      ["npm:2.10.12", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/baseline-browser-mapping-npm-2.10.12-bcdd233e9f-10c0.zip/node_modules/baseline-browser-mapping/",\
         "packageDependencies": [\
-          ["baseline-browser-mapping", "npm:2.10.10"]\
+          ["baseline-browser-mapping", "npm:2.10.12"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["brace-expansion", [\
-      ["npm:1.1.12", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/brace-expansion-npm-1.1.12-329e9ad7a1-10c0.zip/node_modules/brace-expansion/",\
+      ["npm:1.1.13", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/brace-expansion-npm-1.1.13-551b297c64-10c0.zip/node_modules/brace-expansion/",\
         "packageDependencies": [\
           ["balanced-match", "npm:1.0.2"],\
-          ["brace-expansion", "npm:1.1.12"],\
+          ["brace-expansion", "npm:1.1.13"],\
           ["concat-map", "npm:0.0.1"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:2.0.2", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/brace-expansion-npm-2.0.2-bc7f134bbc-10c0.zip/node_modules/brace-expansion/",\
+      ["npm:2.0.3", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/brace-expansion-npm-2.0.3-f214d9e4b4-10c0.zip/node_modules/brace-expansion/",\
         "packageDependencies": [\
           ["balanced-match", "npm:1.0.2"],\
-          ["brace-expansion", "npm:2.0.2"]\
+          ["brace-expansion", "npm:2.0.3"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:5.0.4", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/brace-expansion-npm-5.0.4-acb9332524-10c0.zip/node_modules/brace-expansion/",\
+      ["npm:5.0.5", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/brace-expansion-npm-5.0.5-b81f6c30d6-10c0.zip/node_modules/brace-expansion/",\
         "packageDependencies": [\
           ["balanced-match", "npm:4.0.4"],\
-          ["brace-expansion", "npm:5.0.4"]\
+          ["brace-expansion", "npm:5.0.5"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2083,10 +2083,10 @@ const RAW_RUNTIME_STATE =
       ["npm:4.28.1", {\
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/browserslist-npm-4.28.1-e455c4c2e8-10c0.zip/node_modules/browserslist/",\
         "packageDependencies": [\
-          ["baseline-browser-mapping", "npm:2.10.10"],\
+          ["baseline-browser-mapping", "npm:2.10.12"],\
           ["browserslist", "npm:4.28.1"],\
-          ["caniuse-lite", "npm:1.0.30001781"],\
-          ["electron-to-chromium", "npm:1.5.321"],\
+          ["caniuse-lite", "npm:1.0.30001782"],\
+          ["electron-to-chromium", "npm:1.5.328"],\
           ["node-releases", "npm:2.0.36"],\
           ["update-browserslist-db", "virtual:e455c4c2e8dc3f3e2b2f64927f2b0dff7ca09ff7730ccbb69cae3e9342c0b24fae16e40b2aa46a2b677c172a1365ba425382266fccbf1e96179eec79a4a5c294#npm:1.2.3"]\
         ],\
@@ -2104,7 +2104,7 @@ const RAW_RUNTIME_STATE =
           ["lru-cache", "npm:11.2.7"],\
           ["minipass", "npm:7.1.3"],\
           ["minipass-collect", "npm:2.0.1"],\
-          ["minipass-flush", "npm:1.0.5"],\
+          ["minipass-flush", "npm:1.0.7"],\
           ["minipass-pipeline", "npm:1.2.4"],\
           ["p-map", "npm:7.0.4"],\
           ["ssri", "npm:13.0.1"]\
@@ -2122,10 +2122,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["caniuse-lite", [\
-      ["npm:1.0.30001781", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/caniuse-lite-npm-1.0.30001781-08efdbb5da-10c0.zip/node_modules/caniuse-lite/",\
+      ["npm:1.0.30001782", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/caniuse-lite-npm-1.0.30001782-a55a270903-10c0.zip/node_modules/caniuse-lite/",\
         "packageDependencies": [\
-          ["caniuse-lite", "npm:1.0.30001781"]\
+          ["caniuse-lite", "npm:1.0.30001782"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2305,10 +2305,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["electron-to-chromium", [\
-      ["npm:1.5.321", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/electron-to-chromium-npm-1.5.321-81c2cd3a4d-10c0.zip/node_modules/electron-to-chromium/",\
+      ["npm:1.5.328", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/electron-to-chromium-npm-1.5.328-77d6d0eafd-10c0.zip/node_modules/electron-to-chromium/",\
         "packageDependencies": [\
-          ["electron-to-chromium", "npm:1.5.321"]\
+          ["electron-to-chromium", "npm:1.5.328"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3177,7 +3177,7 @@ const RAW_RUNTIME_STATE =
           ["make-fetch-happen", "npm:15.0.5"],\
           ["minipass", "npm:7.1.3"],\
           ["minipass-fetch", "npm:5.0.2"],\
-          ["minipass-flush", "npm:1.0.5"],\
+          ["minipass-flush", "npm:1.0.7"],\
           ["minipass-pipeline", "npm:1.2.4"],\
           ["negotiator", "npm:1.0.0"],\
           ["proc-log", "npm:6.1.0"],\
@@ -3210,7 +3210,7 @@ const RAW_RUNTIME_STATE =
       ["npm:10.2.4", {\
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/minimatch-npm-10.2.4-11f0605299-10c0.zip/node_modules/minimatch/",\
         "packageDependencies": [\
-          ["brace-expansion", "npm:5.0.4"],\
+          ["brace-expansion", "npm:5.0.5"],\
           ["minimatch", "npm:10.2.4"]\
         ],\
         "linkType": "HARD"\
@@ -3218,7 +3218,7 @@ const RAW_RUNTIME_STATE =
       ["npm:3.1.5", {\
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/minimatch-npm-3.1.5-86958baf50-10c0.zip/node_modules/minimatch/",\
         "packageDependencies": [\
-          ["brace-expansion", "npm:1.1.12"],\
+          ["brace-expansion", "npm:1.1.13"],\
           ["minimatch", "npm:3.1.5"]\
         ],\
         "linkType": "HARD"\
@@ -3226,7 +3226,7 @@ const RAW_RUNTIME_STATE =
       ["npm:9.0.9", {\
         "packageLocation": "../../../../../../runner/cache/others/berry/cache/minimatch-npm-9.0.9-3ee8f15008-10c0.zip/node_modules/minimatch/",\
         "packageDependencies": [\
-          ["brace-expansion", "npm:2.0.2"],\
+          ["brace-expansion", "npm:2.0.3"],\
           ["minimatch", "npm:9.0.9"]\
         ],\
         "linkType": "HARD"\
@@ -3273,11 +3273,11 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["minipass-flush", [\
-      ["npm:1.0.5", {\
-        "packageLocation": "../../../../../../runner/cache/others/berry/cache/minipass-flush-npm-1.0.5-efe79d9826-10c0.zip/node_modules/minipass-flush/",\
+      ["npm:1.0.7", {\
+        "packageLocation": "../../../../../../runner/cache/others/berry/cache/minipass-flush-npm-1.0.7-d0ad4a0c15-10c0.zip/node_modules/minipass-flush/",\
         "packageDependencies": [\
           ["minipass", "npm:3.3.6"],\
-          ["minipass-flush", "npm:1.0.5"]\
+          ["minipass-flush", "npm:1.0.7"]\
         ],\
         "linkType": "HARD"\
       }]\
