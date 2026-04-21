@@ -4,7 +4,7 @@
   "description": "",
   "license": "MIT",
   "private": true,
-  "packageManager": "yarn@4.13.0",
+  "packageManager": "yarn@4.14.1",
   "author": {
     "name": "Bryan Gonzalez",
     "email": "bgonza868@gmail.com"
